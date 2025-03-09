@@ -1,4 +1,4 @@
-# MNIST Classification using CNN (Coding task 1)
+# MNIST Classification using CNN 
 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset using PyTorch
 
